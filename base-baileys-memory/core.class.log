@@ -1,0 +1,57 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB095CF207EBD7117DB56',
+    participant: undefined
+  },
+  messageTimestamp: 1742849254,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'hola',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9de7f74c-ce9c-42d2-8571-8aaef968404c',
+  keyword: 'key_e1e33675-1321-4599-99b6-25922d4122a1',
+  answer: '🎾 ¡Bienvenido a Las Canchas de Paddle de Dami Cupo! 🎾',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '03fe49581954a49dc8cb8d9dfef4faad'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_20f80c5b-0cd9-4189-9b35-32365b02ab6d',
+  keyword: 'ans_9de7f74c-ce9c-42d2-8571-8aaef968404c',
+  answer: 'Por favor, ingresa tu *Nombre* y *Número de Lote* en el siguiente formato: *Juan Pérez Lote 123* o *José 123*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f1425b8bc1f0c20b541ddde5753b84cd'
+}
