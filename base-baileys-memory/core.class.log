@@ -2,10 +2,10 @@
   key: {
     remoteJid: '5491170604229@s.whatsapp.net',
     fromMe: false,
-    id: '3EB095CF207EBD7117DB56',
+    id: '3EB06A748577D3C6FF15C1',
     participant: undefined
   },
-  messageTimestamp: 1742849254,
+  messageTimestamp: 1742854193,
   pushName: 'Valen',
   broadcast: false,
   message: Message {
@@ -20,8 +20,8 @@
   from: '5491170604229'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_9de7f74c-ce9c-42d2-8571-8aaef968404c',
-  keyword: 'key_e1e33675-1321-4599-99b6-25922d4122a1',
+  ref: 'ans_5aaae41e-b9ce-4e7d-96e4-0a8fe17e117b',
+  keyword: 'key_8800e4de-888b-4ef0-adbb-0ed2cac8e0de',
   answer: '🎾 ¡Bienvenido a Las Canchas de Paddle de Dami Cupo! 🎾',
   options: {
     media: null,
@@ -35,11 +35,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '03fe49581954a49dc8cb8d9dfef4faad'
+  refSerialize: '5e73ced21af98f02be978166db528443'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_20f80c5b-0cd9-4189-9b35-32365b02ab6d',
-  keyword: 'ans_9de7f74c-ce9c-42d2-8571-8aaef968404c',
+  ref: 'ans_89568de2-8ba6-4b68-bbcd-eabbc2969b49',
+  keyword: 'ans_5aaae41e-b9ce-4e7d-96e4-0a8fe17e117b',
   answer: 'Por favor, ingresa tu *Nombre* y *Número de Lote* en el siguiente formato: *Juan Pérez Lote 123* o *José 123*',
   options: {
     media: null,
@@ -53,5 +53,122 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'f1425b8bc1f0c20b541ddde5753b84cd'
+  refSerialize: '16794eb8750c967aebe3f18be7907fd7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09E91B2533DFCAC1D4A',
+    participant: undefined
+  },
+  messageTimestamp: 1742854197,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    conversation: 'pepe',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'pepe',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_236a6c57-fb14-46c4-a658-caf38066d5a3',
+  keyword: 'key_9500f61b-d1ff-43ed-a49d-54ef2283c6e9',
+  answer: 'Gracias por la información. Ahora, ¿En qué cancha vas a jugar? Responde con *1*, *2* o *3*.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bce70c745c68eb4775c9b02588048a90'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00CC76DFEADCA2E5110',
+    participant: undefined
+  },
+  messageTimestamp: 1742854199,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f495a376-1d0a-4c1d-ae06-bf2c7a2d5265',
+  keyword: 'key_09bde519-d0e5-4ecf-ada6-93d39f58fa9e',
+  answer: 'Perfecto. Ahora, ¿Tenes invitados sin carnet para declarar? Responde *SI* o *NO*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1df0bc903116713268770e5169703493'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB083DFB04C2D9A5DDB89',
+    participant: undefined
+  },
+  messageTimestamp: 1742854202,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    conversation: 'n',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'n',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_30147d57-13c9-4ebb-af3e-9073c91bc0cc',
+  keyword: 'key_469717f7-37ec-43e9-b93a-5a96d9254169',
+  answer: '¡Entendido! No tienes invitados para declarar. Ahora puedes comenzar a jugar. ¡Diviértete!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4b0e503d5ea433b97860b1481535d33d'
 }

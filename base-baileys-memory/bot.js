@@ -14,11 +14,11 @@ const flowPrincipal = addKeyword(['hola', 'start', 'bienvenido'])
                 addKeyword(['1', '2', '3'])
                     .addAnswer('Perfecto. Ahora, ¿Tenes invitados sin carnet para declarar? Responde *SI* o *NO*', null, null, [
                         // Si la respuesta es "no", el bot pasa directamente a la siguiente etapa sin invitados
-                        addKeyword(['no'])
+                        addKeyword(['no', 'n'])
                             .addAnswer('¡Entendido! No tienes invitados para declarar. Ahora puedes comenzar a jugar. ¡Diviértete!'),
 
                         // Si la respuesta es "sí", el bot pregunta la cantidad de invitados
-                        addKeyword(['si'])
+                        addKeyword(['si','s'])
                             .addAnswer('¡Perfecto! ¿Cuántos invitados tienes? Responde con *1*, *2* o *3* (sin importar el formato de la respuesta).', null, null, [
                                 // Espera la respuesta de la cantidad de invitados (1, 2 o 3)
                                 addKeyword(['1'])
