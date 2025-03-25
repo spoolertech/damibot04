@@ -1,0 +1,1105 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB066135994453F12EDB7',
+    participant: undefined
+  },
+  messageTimestamp: 1742870252,
+  pushName: 'Valen',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5491170604229'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB066135994453F12EDB7',
+    participant: undefined
+  },
+  messageTimestamp: 1742870252,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'hola',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e295da37-b58f-4a98-9c52-f8329bd82a35',
+  keyword: 'key_a96851b5-c522-4ea5-83d6-15d6f7e413f9',
+  answer: '👋🏻 ¡Bienvenido a Villanueva Padel! 🎾\n(San Isidro Labrador)',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '322d5e98a90bdda85883eed7392023ad'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2c144c5b-7a4a-4416-af0d-d54f9b6a14b4',
+  keyword: 'ans_e295da37-b58f-4a98-9c52-f8329bd82a35',
+  answer: '👉🏻 Por favor, ingresa tu *Nombre* y *Número de Lote* en el siguiente formato: *Juan Pérez Lote 123* ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f23d3b6f622e0e37658c6de130781b53'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05A8062DE45B88A34D3',
+    participant: undefined
+  },
+  messageTimestamp: 1742870257,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'pepe 123',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'pepe 123',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cd492142-b9d9-49f1-87c5-3ca482cf076f',
+  keyword: 'key_d945a048-f3b4-4b5b-8327-0fb10eb716c9',
+  answer: '🥳 Ahora Ingresa en qué cancha vas a jugar Responde con *1*, *2* o *3*.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02964b6bf14b0ec0b2bcec2e9d76e284'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0778EB2383DB3C3A994',
+    participant: undefined
+  },
+  messageTimestamp: 1742870260,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5797741b-0f87-4932-918e-628b1ec73025',
+  keyword: 'key_2b1c5e15-79ff-4890-b915-c4b75eebafb4',
+  answer: '⚠️ ¿Tenes invitados sin carnet para declarar? 👥👥 \n Responde *SI* o *NO*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ef7e5845c1cc59b3e9e64b5408822f06'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0925FD6500DAE0ACDFC',
+    participant: undefined
+  },
+  messageTimestamp: 1742870264,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'si',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'si',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_16dfc092-2f35-426b-b85a-0a85c58c7c62',
+  keyword: 'key_f32bb1a2-f0ef-4ba9-88ca-1c00c16b7ed0',
+  answer: '➡️ ¿Cuántos invitados sin Carnet tenes ❓❓❓ \n Responde con *1*, *2* o *3* ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9dcbf2ec78922353f48adf8bf9e8dacc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0FCDDCAF5E9583A94B0',
+    participant: undefined
+  },
+  messageTimestamp: 1742870267,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc718b82-a059-4285-a8e3-f4f7f8158001',
+  keyword: 'key_7879dd29-e453-4a21-8372-e8a03e177162',
+  answer: 'Ingresa el nombre y número de lote del primer invitado (ejemplo: Juan Pérez Lote 123 o José 123).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b56b0b3a9ca067546a5dbd48d106578d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB078CBA519D675C28E1F',
+    participant: undefined
+  },
+  messageTimestamp: 1742870271,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'pepe 345',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'pepe 345',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a36e6c01-0ccb-414d-a54a-3db507a70ec8',
+  keyword: 'key_462c61b5-8e50-4aba-b866-50b69c339efa',
+  answer: '🙍🏼‍♂️🙍🏼‍♂️ Ahora ingresa los datos del invitado Nro 2️⃣ del mismo modo que el anterior!!.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'abc6c0b58b79cd9f180ea9e52b958838'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D2CB1C1DFC2F938E46',
+    participant: undefined
+  },
+  messageTimestamp: 1742870277,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'jose 654',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'jose 654',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_04ea33c1-d3fd-469d-af90-079f526d1bad',
+  keyword: 'key_7feb96de-7ede-48fe-a282-96929767818a',
+  answer: '¡Gracias! Ahora puedes comenzar a jugar. ¡Diviértete!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e4f1aa95351b8a0d96a4a7cff3df18e5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0BBC8A4C753B23D9839',
+    participant: undefined
+  },
+  messageTimestamp: 1742870292,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'hola',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e295da37-b58f-4a98-9c52-f8329bd82a35',
+  keyword: 'key_a96851b5-c522-4ea5-83d6-15d6f7e413f9',
+  answer: '👋🏻 ¡Bienvenido a Villanueva Padel! 🎾\n(San Isidro Labrador)',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '322d5e98a90bdda85883eed7392023ad'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2c144c5b-7a4a-4416-af0d-d54f9b6a14b4',
+  keyword: 'ans_e295da37-b58f-4a98-9c52-f8329bd82a35',
+  answer: '👉🏻 Por favor, ingresa tu *Nombre* y *Número de Lote* en el siguiente formato: *Juan Pérez Lote 123* ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f23d3b6f622e0e37658c6de130781b53'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0BEEE941B8EEF43E344',
+    participant: undefined
+  },
+  messageTimestamp: 1742870302,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'jose 234',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'jose 234',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cd492142-b9d9-49f1-87c5-3ca482cf076f',
+  keyword: 'key_d945a048-f3b4-4b5b-8327-0fb10eb716c9',
+  answer: '🥳 Ahora Ingresa en qué cancha vas a jugar Responde con *1*, *2* o *3*.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02964b6bf14b0ec0b2bcec2e9d76e284'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB010CB8424F76C3364CD',
+    participant: undefined
+  },
+  messageTimestamp: 1742870305,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5797741b-0f87-4932-918e-628b1ec73025',
+  keyword: 'key_2b1c5e15-79ff-4890-b915-c4b75eebafb4',
+  answer: '⚠️ ¿Tenes invitados sin carnet para declarar? 👥👥 \n Responde *SI* o *NO*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ef7e5845c1cc59b3e9e64b5408822f06'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C85F19648EDEFC594D',
+    participant: undefined
+  },
+  messageTimestamp: 1742870309,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'no',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'no',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_01fa0724-cde2-4794-802c-3aa5d80f0bc7',
+  keyword: 'key_375bb13c-b6bb-4f1f-8686-fa5b6236b666',
+  answer: '¡Entendido! No tienes invitados para declarar. Ahora puedes comenzar a jugar. ¡Diviértete!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c2432eabda37f1c698df38b033bce2c0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01609586BF17E8418D7',
+    participant: undefined
+  },
+  messageTimestamp: 1742870316,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'hola',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e295da37-b58f-4a98-9c52-f8329bd82a35',
+  keyword: 'key_a96851b5-c522-4ea5-83d6-15d6f7e413f9',
+  answer: '👋🏻 ¡Bienvenido a Villanueva Padel! 🎾\n(San Isidro Labrador)',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '322d5e98a90bdda85883eed7392023ad'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2c144c5b-7a4a-4416-af0d-d54f9b6a14b4',
+  keyword: 'ans_e295da37-b58f-4a98-9c52-f8329bd82a35',
+  answer: '👉🏻 Por favor, ingresa tu *Nombre* y *Número de Lote* en el siguiente formato: *Juan Pérez Lote 123* ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f23d3b6f622e0e37658c6de130781b53'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01D4D1A3701E572E543',
+    participant: undefined
+  },
+  messageTimestamp: 1742870320,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'jose 567',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'jose 567',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cd492142-b9d9-49f1-87c5-3ca482cf076f',
+  keyword: 'key_d945a048-f3b4-4b5b-8327-0fb10eb716c9',
+  answer: '🥳 Ahora Ingresa en qué cancha vas a jugar Responde con *1*, *2* o *3*.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02964b6bf14b0ec0b2bcec2e9d76e284'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB052396691E8BEE43EF6',
+    participant: undefined
+  },
+  messageTimestamp: 1742870323,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5797741b-0f87-4932-918e-628b1ec73025',
+  keyword: 'key_2b1c5e15-79ff-4890-b915-c4b75eebafb4',
+  answer: '⚠️ ¿Tenes invitados sin carnet para declarar? 👥👥 \n Responde *SI* o *NO*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ef7e5845c1cc59b3e9e64b5408822f06'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05002EDABAD713CF119',
+    participant: undefined
+  },
+  messageTimestamp: 1742870326,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'si',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'si',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_16dfc092-2f35-426b-b85a-0a85c58c7c62',
+  keyword: 'key_f32bb1a2-f0ef-4ba9-88ca-1c00c16b7ed0',
+  answer: '➡️ ¿Cuántos invitados sin Carnet tenes ❓❓❓ \n Responde con *1*, *2* o *3* ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9dcbf2ec78922353f48adf8bf9e8dacc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0EFE55E275B0A4A247E',
+    participant: undefined
+  },
+  messageTimestamp: 1742870329,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '3',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_01fdaa34-830a-4e30-99ec-1a2b9b21ef87',
+  keyword: 'key_a186d36c-99fb-4102-bfae-c88834e37ca9',
+  answer: 'Ingresa el nombre y número de lote del primer invitado (ejemplo: Juan Pérez Lote 123 o José 123).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e9de12720dc0c2e5d7ecd147d60fbb3d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0235FC8CFAA7F6BAC8E',
+    participant: undefined
+  },
+  messageTimestamp: 1742870333,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'pepe 345',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'pepe 345',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6a6d62fc-6add-458e-94b7-02448a63c3b6',
+  keyword: 'key_22712325-f782-4d19-aa7e-6656e6614b32',
+  answer: '🙍🏼‍♂️🙍🏼‍♂️ Ahora ingresa los datos del invitado Nro 2️⃣ del mismo modo que el anterior!!.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bef922ef3294e14bc72fa90d910ada71'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C2CD1969AE22FE7EB2',
+    participant: undefined
+  },
+  messageTimestamp: 1742870338,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'jose 345',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'jose 345',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f088447f-caff-452d-9b01-22b3e7ac4dae',
+  keyword: 'key_0fbd75ad-08f6-4652-82c5-70048e889e4d',
+  answer: '🤗🤗🤗   Por último, ingresá los datos del invitado Nro 3️⃣ ❗',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5a5c9b31e732e36700e0780d346dbe77'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491170604229@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F976355A6BED58F695',
+    participant: undefined
+  },
+  messageTimestamp: 1742870343,
+  pushName: 'Valen',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'luis 456',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'luis 456',
+  from: '5491170604229'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_19045d0a-53f5-4757-a091-c143d49d14bc',
+  keyword: 'key_7d23baa6-64e1-4215-b07f-ae1368c91d38',
+  answer: '🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾 \n' +
+    ' Gracias por la info!!! ❤️ Todo listo! Ahora podés comenzar a jugar‼️. \n' +
+    ' * 🤔 Recordá, si todavía no pasaste, que si querés abonar en efectivo podes acercarte a la oficina y hacerlo. De lo contrario te lo podemos cargar por expensas! 📩 \n' +
+    ' * Este sistema NO REEMPLAZA a la reserva por PADELINK, si no la hiciste, hacela asi nadie te pide la cancha 😡 mientras estes jugando 🏓. \n' +
+    ' Gracias por elegirnos 😍😍!! Disfruten el partido!!! \n' +
+    ' 🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾🎾',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2fa54f561f03bad96a40ab5ca237dc70'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491130837712@s.whatsapp.net',
+    fromMe: false,
+    id: 'A7E26460F0EA784856FEAC1CF84203D5',
+    participant: undefined
+  },
+  messageTimestamp: 1742870766,
+  pushName: 'Damian cupo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Damian cupo',
+  body: 'Hola',
+  from: '5491130837712'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e295da37-b58f-4a98-9c52-f8329bd82a35',
+  keyword: 'key_a96851b5-c522-4ea5-83d6-15d6f7e413f9',
+  answer: '👋🏻 ¡Bienvenido a Villanueva Padel! 🎾\n(San Isidro Labrador)',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '322d5e98a90bdda85883eed7392023ad'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2c144c5b-7a4a-4416-af0d-d54f9b6a14b4',
+  keyword: 'ans_e295da37-b58f-4a98-9c52-f8329bd82a35',
+  answer: '👉🏻 Por favor, ingresa tu *Nombre* y *Número de Lote* en el siguiente formato: *Juan Pérez Lote 123* ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f23d3b6f622e0e37658c6de130781b53'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491130837712@s.whatsapp.net',
+    fromMe: false,
+    id: 'D5403800518BB8F9A61C2D2313CBE92E',
+    participant: undefined
+  },
+  messageTimestamp: 1742870777,
+  pushName: 'Damian cupo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Damián cupolillo 366',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Damián cupolillo 366',
+  from: '5491130837712'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cd492142-b9d9-49f1-87c5-3ca482cf076f',
+  keyword: 'key_d945a048-f3b4-4b5b-8327-0fb10eb716c9',
+  answer: '🥳 Ahora Ingresa en qué cancha vas a jugar Responde con *1*, *2* o *3*.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '02964b6bf14b0ec0b2bcec2e9d76e284'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491130837712@s.whatsapp.net',
+    fromMe: false,
+    id: '47207761C7D118A9375D0079ACD45135',
+    participant: undefined
+  },
+  messageTimestamp: 1742870784,
+  pushName: 'Damian cupo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '5491130837712'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5797741b-0f87-4932-918e-628b1ec73025',
+  keyword: 'key_2b1c5e15-79ff-4890-b915-c4b75eebafb4',
+  answer: '⚠️ ¿Tenes invitados sin carnet para declarar? 👥👥 \n Responde *SI* o *NO*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ef7e5845c1cc59b3e9e64b5408822f06'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491130837712@s.whatsapp.net',
+    fromMe: false,
+    id: '6FEE761DA0AEA56EBBEB8B3F0A129FAB',
+    participant: undefined
+  },
+  messageTimestamp: 1742870790,
+  pushName: 'Damian cupo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Si',
+  from: '5491130837712'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_16dfc092-2f35-426b-b85a-0a85c58c7c62',
+  keyword: 'key_f32bb1a2-f0ef-4ba9-88ca-1c00c16b7ed0',
+  answer: '➡️ ¿Cuántos invitados sin Carnet tenes ❓❓❓ \n Responde con *1*, *2* o *3* ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9dcbf2ec78922353f48adf8bf9e8dacc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491130837712@s.whatsapp.net',
+    fromMe: false,
+    id: 'AB7E60E02F2686622AD7595E397DE2D1',
+    participant: undefined
+  },
+  messageTimestamp: 1742870795,
+  pushName: 'Damian cupo',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '5491130837712'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc718b82-a059-4285-a8e3-f4f7f8158001',
+  keyword: 'key_7879dd29-e453-4a21-8372-e8a03e177162',
+  answer: 'Ingresa el nombre y número de lote del primer invitado (ejemplo: Juan Pérez Lote 123 o José 123).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b56b0b3a9ca067546a5dbd48d106578d'
+}
